@@ -9,3 +9,6 @@
 *.pyx    text diff=python
 *.pyz    text diff=python
 *.pyi    text diff=python
+
+
+*.rpyb linguist-language=Python
